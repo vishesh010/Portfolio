@@ -1,0 +1,19 @@
+.style1{
+    color:#36454f;
+}
+.style3{
+    color:#36454f;
+}
+.card{
+    margin-left: 500px;
+}
+.card:hover{
+    box-shadow: 5px 5px 7px 7px  #36454f;
+    
+}
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="baclground"] {
+      width: 100%;
+    }
+  }
